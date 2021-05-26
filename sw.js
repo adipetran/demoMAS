@@ -1,1 +1,1 @@
-importScripts('https://app.movalio.test/sdk-v2/sw.js');
+importScripts('https://app_new.movalio.test/sdk-v2/sw.js');
